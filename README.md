@@ -32,7 +32,7 @@ Currently, I participate in research focusing on machine learning and deep learn
 
 ## 🚀 Projects
 
-### [JotGenius](https://github.com/huynhkyle23/jotgenius)
+### [JotGenius](https://devpost.com/software/jotgenius)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +44,7 @@ Currently, I participate in research focusing on machine learning and deep learn
 - **Outcome**: Successfully created a dynamic and user-friendly platform that encourages effective note-taking habits through gamification. The application not only enhances user engagement but also provides valuable insights into their note-taking styles, fostering continuous improvement. This project showcases proficiency in both front-end and back-end development while utilizing AI to elevate the user experience.
 
 
-### [Sepsis Prediction Model](https://github.com/huynhkyle23/sepsis-prediction)
+### [Sepsis Prediction Model](https://devpost.com/software/sepsis-a-case-study)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -52,7 +52,7 @@ Currently, I participate in research focusing on machine learning and deep learn
 - **Description**: A data science project that analyzes and attempts to predict on the stratascratch sepsis dataset. 
 - **Outcome**: Developed a machine learning model achieving 90% accuracy in predicting sepsis, recognized for the best use of sepsis data during the UCI Embark 2023 Datathon
 
-### [Dublin Housing Classification](https://github.com/huynhkyle23/dublin-housing-classification)
+### [Dublin Housing Classification](https://devpost.com/software/d-3-dublin-s-demand-supply-decoder)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
